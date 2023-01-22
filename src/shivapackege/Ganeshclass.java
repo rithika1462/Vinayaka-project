@@ -20,7 +20,7 @@ public class Ganeshclass {
 		a.mno();
 		Ganeshclass b = new Ganeshclass();
 		b.abc();
-		System.out.println("helloman2");
+		System.out.println("helloman3");
 	}
 
 	public static void abc() {
