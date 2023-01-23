@@ -9,7 +9,7 @@ public class Test {
 		TreeSet treeSet = new TreeSet();
 		//treeSet.add(null);
 		treeSet.add("C");
-		treeSet.add("G");
+		treeSet.add("H");
 		treeSet.add("C");
 		treeSet.add("O");
 		treeSet.add(5);
