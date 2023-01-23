@@ -8,7 +8,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		TreeSet treeSet = new TreeSet();
 		//treeSet.add(null);
-		treeSet.add("Z");
+		treeSet.add("C");
 		treeSet.add("G");
 		treeSet.add("C");
 		treeSet.add("O");
